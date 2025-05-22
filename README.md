@@ -19,7 +19,7 @@ Discover how to import and use libraries to enhance their programs. Also learn h
 
 | Topic |  About |
 | ------ | ------ |
-|  [python-modules-scripting.ipynb](python-modules-scripting.ipynb) | Code-a-long  |
+|  [python-modules-scripting.ipynb](python-modules-and-scripting.ipynb) | Code-a-long  |
 
 
 ## Prerequisites
