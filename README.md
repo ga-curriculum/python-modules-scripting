@@ -19,7 +19,7 @@ Discover how to import and use libraries to enhance their programs. Also learn h
 
 | Topic |  About |
 | ------ | ------ |
-|  [python-modules-scripting.ipynb](python-modules-and-scripting.ipynb) | Code-a-long  |
+|  [python-modules-scripting.ipynb](https://colab.research.google.com/github/ga-curriculum/python-modules-scripting/blob/main/python-modules-and-scripting.ipynb){:target="_blank"} | Code-a-long  |
 
 
 ## Prerequisites
